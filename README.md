@@ -1,15 +1,14 @@
-# design
-RUBEN MATHEW
-                                  Ph:  +353 0894288660  Email: rubenmathew1729@gmail.com  Galway, IrelandOBJECTIVE:
+#RUBEN MATHEW
+                                  #Ph:  +353 0894288660 # Email: rubenmathew1729@gmail.com  #Galway, IrelandOBJECTIVE:
 A dedicated person with over 2 years of experience in working Part-time/Full-time at stores and companies. Ability to communicate with people and extremely passionate individual willing to learn new things. Ability to take and handle responsibilities in areas of Cleaning, Managing, and Reception.
 Ready to Work on the weekend
 
-EDUCATION :
-MSc. Business Analytics 2023-2-24
+#EDUCATION :
+##MSc. Business Analytics 2023-2-24
  - University of Galway
- B Tech 
+## B Tech 
 Electronics and Communication
-SKILLS :
+#SKILLS :
 Customer service
 communication skills
  Time management
@@ -18,14 +17,14 @@ Hospitality
 The ability to work both individually and as a team. 
 Flexibility in response to the workplace.
  
-COMPETENCIES
+#COMPETENCIES
  
 Experience of working in malls.
 Identifying and resolving customer issues.
 Experience of working in a global environment.
 
 
-WORK EXPERIENCE :
+#WORK EXPERIENCE :
 
 General Operative, Ireland                       
                         CWS Cleanrooms , Spiddal – Sept 2023 to Nov 2023
@@ -36,7 +35,7 @@ Following workplace health and safety procedures.
 Working at an assembly line where you pack products into containers.
 Folding and packing the garments based on standards
 
-Sales Assistant , Ireland 
+#Sales Assistant , Ireland 
                            Dunnes Store, Knocknacarra– Nov 2023 to Dec 2023(seasonal)
 Working in the Check-Out department to help customers sort the groceries and retail products 
 Excellent communication and interpersonal skills towards customers and store staff
